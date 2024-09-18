@@ -1,0 +1,5 @@
+1°) Primeiro é feito o descarregamento das caixas com as encomendas que vem nos caminhões, isso com uso de uma empilhadeira e são colocadas dentro do galpão.
+
+2°) Já dentro do galpão é efetuado o escaneamento e a separação das encomendas nas células (esteiras), logo após são encaminhadas aos distritos (mesas de cada bairro)
+
+3°) Após esse processo, os carteiros organizam as encomendas por distrito, levam até seus carros e fazem suas rotas para as entregas
